@@ -47,7 +47,7 @@ View real-time alerts and visualizations on the dashboard.
 To set up the FraudHawk project locally, follow these steps:
 
    ```bash
-   git clone https://github.com/yourusername/FraudHawk.git
+   git clone https://github.com/HrithikRai/FraudHawk.git
    cd FraudHawk
    pip install -r requirements.txt
    uvicorn backend:app --reload
