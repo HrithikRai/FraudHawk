@@ -1,0 +1,10 @@
+fastapi==0.115.4
+numpy==2.1.2
+pandas==2.2.3
+plotly==5.24.1
+pydantic==2.9.2
+Requests==2.32.3
+scikit_learn==1.5.2
+sentence_transformers==3.2.1
+streamlit==1.39.0
+torch==2.5.0

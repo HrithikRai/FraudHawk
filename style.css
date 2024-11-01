@@ -1,0 +1,16 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.stButton>button {
+    background-color: #169f1b;
+    color: white;
+    border: none;
+    padding: 10px 24px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px 0;
+}
+.stButton>button:hover {
+    background-color: #5f07e4;
+}
