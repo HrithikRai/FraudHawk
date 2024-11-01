@@ -4,6 +4,9 @@
 
 **FraudHawk** is an advanced anomaly detection project designed to monitor user transactions and identify fraudulent activities in real-time. By leveraging machine learning techniques such as Autoencoders and Isolation Forest, FraudHawk provides a robust framework for ensuring transaction integrity, enhancing user trust, and minimizing financial losses due to fraud.
 
+![project_image](fraudHawk.png)
+
+
 ## Features
 
 - **Real-time Transaction Monitoring:** Detects and alerts users about potentially fraudulent transactions as they occur.
